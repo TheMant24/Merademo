@@ -1,3 +1,5 @@
 # Merademo
 THIS IS MY FIRST GIT REPOSITORY
-Author - Dhimant Bhardwaj
+<br>
+Author - Dhimant Bhardwaj in VIT bhopal
+
